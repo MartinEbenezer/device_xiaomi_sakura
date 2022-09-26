@@ -248,3 +248,6 @@ persist.sys.sf.disable_blurs=1
 PRODUCT_SYSTEM_PROPERTIES += \
 persist.debug.wfd.enable=1 \
 media.wfd.max_resolution=5
+
+PRODUCT_SYSTEM_PROPERTIES += \
+ro.spark.maintainer=MartinEbenezer
